@@ -1,7 +1,7 @@
 {
   "name": "angular-cal-heatmap",
   "version": "0.0.1",
-  "description": "Angularized cal-heatmap https://github.com/kamisama/cal-heatmap",
+  "description": "Angularized cal-heatmap https://github.com/kamisama/cal-heatmap.",
   "main": "dist/calHeatmap.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/hfreire/angular-cal-heatmap/issues"
   },
-  "homepage": "https://https://github.com/hfreire/angular-cal-heatmap/issues",
+  "homepage": "https://https://github.com/hfreire/angular-cal-heatmap",
   "devDependencies": {
     "angular-jsdoc": "^0.3.8",
     "canonical-path": "0.0.2",
