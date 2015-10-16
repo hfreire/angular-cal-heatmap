@@ -6,7 +6,7 @@
     "Hugo Freire <hfreire@exec.sh>"
   ],
   "description": "Angularized cal-heatmap https://github.com/kamisama/cal-heatmap.",
-  "main": "dist/calHeatmap.min.js",
+  "main": "dist/angular-cal-heatmap.min.js",
   "moduleType": [
     "yui"
   ],

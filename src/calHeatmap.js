@@ -170,8 +170,6 @@ angular.module('calHeatmap', [])
       };
       config = angular.extend(defaultConfig, config);
 
-      console.log(attrs);
-
       var cal = new CalHeatMap();
       cal.init(config);
 
@@ -190,7 +188,7 @@ angular.module('calHeatmap', [])
     }
 
     return {
-      template: '<div class="cal-heatmap" config="config"></div>',
+      template: '<div class="cal-heatmap" 9config="config"></div>',
       restrict: 'E',
       link: link,
       scope: {
